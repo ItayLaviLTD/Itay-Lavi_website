@@ -233,3 +233,9 @@
 </html>
 
 logo.png
+
+<header>
+  <img src="logo.png" alt="לוגו איתי לביא" style="width:220px; margin-bottom:20px;">
+  <h1>איתי לביא יזמות בע"מ</h1>
+  <p>ניהול פרויקטים | רישוי | סטטוטוריקה | מסירת פרויקטים</p>
+</header>
